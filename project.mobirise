@@ -278,6 +278,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-22",
           "_params": {
             "imageSize": 50,
@@ -322,16 +330,8 @@
             }
           },
           "title": "",
-          "text": "Hi! I am Abhishek, a computer science graduate student at University of North Carolina at Charlotte (College of Computing and Informatics). I am a Web Application Developer, Virtual &amp; Augnment Reality Developer, &nbsp;Photographer and Art lover.<br>Fluent in JavaScript, jQuery, AngularJS, NodeJS, ReactJS, HTML, CSS, Java, J2EE, Python, PHP, C#, Unity3D, Oracle, DB2, MySQL, Spring MVC.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Resume</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "text": "Hi! I am Abhishek, a computer science graduate student at University of North Carolina at Charlotte (College of Computing and Informatics). I am a Web Application Developer, Virtual &amp; Augnment Reality Developer, &nbsp;Photographer and Art lover.<br>Fluent in JavaScript, jQuery, AngularJS, NodeJS, ReactJS, HTML, CSS, Java, J2EE, JSP, Servlets, RESTful Webservices, Python, PHP, C#, Unity3D, Oracle, DB2, MySQL, Spring MVC.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Resume</a>"
         },
         {
           "_styles": {
@@ -487,6 +487,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-25",
           "_params": {
             "imageSize": "39",
@@ -533,16 +542,7 @@
           },
           "title": "System Engineer (Jan 2014 - July 2016)&nbsp;",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Tata Consultancy Services Ltd, Bengaluru, India</i></span><br><b>Technology Enabled Business Transformation (TEBT) project</b><br>•\tIncreased work efficiency by 40% designing better solutions.<br>•\tImproved workflow designs by detailed analysis and design of the existing solutions.<br>•\tReceived the award “Young Turk” for my contribution in the project.<br>•\tReduced the development timeline from 3 weeks to 5 minutes by designing a solution.<br>•\tHandled the responsibility of analysis, design, development and deployment of the product.<br>•\tReceived the prestigious award “ILP – Kudos” for outstanding performance during the Initial Learning Program (ILP).<br>•\tLead a team of 12 associates to successfully deliver a project during my training.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -569,18 +569,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "content1-28",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>•\tVirtual reality First Person Shooter game for Oculus Rift with Razer Hydra built using C# on Unity</p><p><br></p><p>•\t3D visualization of volumetric brain scan report – Tool built on C++ and Open Scene Graph Library</p><p><br></p><p>•\tRecommendation system for Book Crossing Dataset using different recommendation algorithms implemented in Python</p><p><br></p><p>•\tDeduction of subjective remarks to statistical equivalence by sentiment analysis – Learning algorithms built on Python.</p><p><br></p><p>•\tVisualization of Robot Navigation using Real-time A* algorithm</p><p><br></p><p>•\tDuke MyChart: Simplified Radiology Reports – NLP based application built on Python (Hack Duke 2016).</p><p><br></p><p>•\tDefect Tracker – Web based tool to track bug fixes during software development built using AngularJS, jQuery, JavaScript, Java/J2EE, HTML/CSS, MySQL.</p><p><br></p><p>•\tTechnology Enabled Business Transformation project - Computerized of end to end solution for selling various kinds of insurance policies built using AngularJS, NodeJS, AJAX, jQuery, JavaScript, HTML/CSS, Java/J2EE, Spring Webflow, Oracle.</p><p><br></p><p>• Online Retail System - Web based portal for a retail store to manage online sales and inventory management built using AJAX, jQuery, JavaScript, HTML/CSS, Java/J2EE, Hibernate, Oracle.</p><p><br></p><p>• Highly Confidential Security System - Web based tool for storing personal files on cloud using a security algorithm built using AJAX, jQuery, JavaScript, HTML/CSS, Java/J2EE, IBM DB2.</p><p><br></p><p>• Paperless Hospital Service - Web based tool for managing activities in a hospital built using AJAX, jQuery, JavaScript, HTML/CSS, Java/J2EE, IBM DB2.</p><p><br></p>",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text": "<p>•\tVirtual reality First Person Shooter game for Oculus Rift with Razer Hydra built using C# on Unity</p><p><br></p><p>•\t3D visualization of volumetric brain scan report – Tool built on C++ and Open Scene Graph Library</p><p><br></p><p>•\tRecommendation system for Book Crossing Dataset using different recommendation algorithms implemented in Python</p><p><br></p><p>•\tDeduction of subjective remarks to statistical equivalence by sentiment analysis – Learning algorithms built on Python.</p><p><br></p><p>•\tVisualization of Robot Navigation using Real-time A* algorithm</p><p><br></p><p>•\tDuke MyChart: Simplified Radiology Reports – NLP based application built on Python (Hack Duke 2016).</p><p><br></p><p>•\tDefect Tracker – Web based tool to track bug fixes during software development built using AngularJS, jQuery, JavaScript, Java/J2EE, HTML/CSS, MySQL.</p><p><br></p><p>•\tTechnology Enabled Business Transformation project - Computerized of end to end solution for selling various kinds of insurance policies built using AngularJS, NodeJS, AJAX, jQuery, JavaScript, HTML/CSS, Java/J2EE, Spring Webflow, Oracle.</p><p><br></p><p>• Online Retail System - Web based portal for a retail store to manage online sales and inventory management built using AJAX, jQuery, JavaScript, HTML/CSS, Java/J2EE, Hibernate, Oracle.</p><p><br></p><p>• Highly Confidential Security System - Web based tool for storing personal files on cloud using a security algorithm built using AJAX, jQuery, JavaScript, HTML/CSS, Java/J2EE, IBM DB2.</p><p><br></p><p>• Paperless Hospital Service - Web based tool for managing activities in a hospital built using AJAX, jQuery, JavaScript, HTML/CSS, Java/J2EE, IBM DB2.</p><p><br></p>"
         },
         {
           "_inherit": "menu",
