@@ -23,7 +23,10 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 86,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/1-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "in55dex.html": {
@@ -319,7 +322,7 @@
             }
           },
           "title": "",
-          "text": "Hi! I am Abhishek a computer science graduate student at University of North Carolina at Charlotte (College of Computing and Informatics). I am a Web Application Developer (JavaScript, jQuery, AngularJS, NodeJS, ReactJS, HTML, CSS, Java, J2EE, Python, PHP), Virtual &amp; Augnment Reality Developer (JavaScript, C#, Unity3D), Photographer and Art lover.",
+          "text": "Hi! I am Abhishek, a computer science graduate student at University of North Carolina at Charlotte (College of Computing and Informatics). I am a Web Application Developer, Virtual &amp; Augnment Reality Developer &nbsp;Photographer and Art lover.<br>Fluent in JavaScript, jQuery, AngularJS, NodeJS, ReactJS, HTML, CSS, Java, J2EE, Python, PHP, C#, Unity3D, Oracle, DB2, MySQL, Spring MVC.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Resume</a>",
           "_styles": {
             ".mbr-section-title": {
