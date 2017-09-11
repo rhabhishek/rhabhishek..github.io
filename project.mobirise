@@ -267,11 +267,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "ABHISHEK RATTIHALLI",
           "text": "Web Application Developer -&nbsp;Virtual &amp; Augmented Reality Developer -&nbsp;Human Computer Interaction(HCI) Enthusiast",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\" rhabhishek.github.io/Abhishek Rattihalli - Web Developer.pdf \" data-toolbar=\"-mbrBtnMove\">DOWNLOAD RESUME</a>"
         },
         {
           "_tags": [
